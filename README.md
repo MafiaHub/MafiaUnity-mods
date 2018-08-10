@@ -8,10 +8,10 @@ Edit this README.md file and add your mod to the suitable category. Entries alwa
 
 - [MOD NAME] ([MOD VERSION] for [MAFIAUNITY_VERSION] by **[MOD AUTHOR]** - [DOWNLOAD LINK]
 
-Afterwards, create a pull request with your name and state all mod changes in the description.
-
 such as
 - ExampleMod (1.34b for 1.0.0) by **SomeoneUnique** - https://xxx.yy/zzzz/
+
+Afterwards, create a pull request with your name and state all mod changes in the description.
 
 ## How to apply for modder role on our Discord server?
 
