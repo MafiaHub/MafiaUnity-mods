@@ -6,7 +6,7 @@ This is a curated list of mods specifically made for MafiaUnity. Each mod is che
 
 Edit this README.md file and add your mod to the suitable category. Entries always follow this format:
 
-- [MOD NAME] ([MOD VERSION] for [MAFIAUNITY_VERSION] by **[MOD AUTHOR]** - [DOWNLOAD LINK]
+- [MOD NAME] ([MOD VERSION] for [MAFIAUNITY_VERSION]) by **[MOD AUTHOR]** - [DOWNLOAD LINK]
 
 such as
 - ExampleMod (1.34b for 1.0.0) by **SomeoneUnique** - https://xxx.yy/zzzz/
