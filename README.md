@@ -42,6 +42,7 @@ You can report any issues or abuse to one of our administrators or by sending an
 ## Utilities ##
 
 ## Graphics ##
+- SweetWinter (1.0 for 1.0.0) by **Cukier** - https://dl.dropboxusercontent.com/s/ngtwk3dw7pvowqm/BgwLR7qBQan57V_1533907890.rar
 
 ## Editor Plugins ##
 
