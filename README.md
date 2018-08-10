@@ -15,7 +15,7 @@ Afterwards, create a pull request with your name and state all mod changes in th
 
 ## How to apply for modder role on our Discord server?
 
-If you want to apply for a modder role and share your mods with others on the server, ask our **Mod Curators** about it. They will review your past contribution and decide based on that. Note that your application might get rejected and you should repeat the process only until 7 days pass.
+If you want to apply for a modder role and share your mods with others on the server, ask our **Mod Curators** about it. They will review your past contribution and decide based on that. Note that your application might get rejected and you should repeat the process only after 7 days pass.
 
 ## Disclaimer
 
