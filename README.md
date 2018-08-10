@@ -27,7 +27,7 @@ You can report any issues or abuse to one of our administrators or by sending an
 ## Table of Contents
 
 - [Gameplay](#gameplay)
-- [Asset Replacers](#asset-replacers)
+- [Bugfixes](#bugfixes)
 - [Utilities](#utilities)
 - [Graphics](#graphics)
 - [Editor Plugins](#editor-plugins)
@@ -37,7 +37,7 @@ You can report any issues or abuse to one of our administrators or by sending an
 
 ## Gameplay ##
 
-## Asset Replacers ##
+## Bugfixes ##
 
 ## Utilities ##
 
