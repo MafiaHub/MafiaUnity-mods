@@ -42,7 +42,7 @@ You can report any issues or abuse to one of our administrators or by sending an
 ## Utilities ##
 
 ## Graphics ##
-- SweetWinter by **Cukier** - https://dl.dropboxusercontent.com/s/ngtwk3dw7pvowqm/BgwLR7qBQan57V_1533907890.rar
+- SweetWinter by **Cukier** - https://www.dropbox.com/s/8nck3th6jotyjtz/SweetWinter.rar?dl=0
 
 ## Editor Plugins ##
 
