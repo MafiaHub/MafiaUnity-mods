@@ -46,6 +46,8 @@ You can report any issues or abuse to one of our administrators or by sending an
 
 ## Editor Plugins ##
 
+- Scene OBJ Exporter (1.0 for 1.0.0) by **halmarak** - https://pastebin.com/5dN4muHP
+
 ## Maps ##
 
 ## Total Conversions ##
