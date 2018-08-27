@@ -6,10 +6,10 @@ This is a curated list of mods specifically made for MafiaUnity. Each mod is che
 
 Edit this README.md file and add your mod to the suitable category. Entries always follow this format:
 
-- [MOD NAME] ([MOD VERSION] for [MAFIAUNITY_VERSION]) by **[MOD AUTHOR]** - [DOWNLOAD LINK]
+- [MOD NAME] by **[MOD AUTHOR]** - [DOWNLOAD LINK]
 
 such as
-- ExampleMod (1.34b for 1.0.0) by **SomeoneUnique** - https://xxx.yy/zzzz/
+- ExampleMod by **SomeoneUnique** - https://xxx.yy/zzzz/
 
 Afterwards, create a pull request with your name and state all mod changes in the description.
 
@@ -42,11 +42,11 @@ You can report any issues or abuse to one of our administrators or by sending an
 ## Utilities ##
 
 ## Graphics ##
-- SweetWinter (1.0 for 1.0.0) by **Cukier** - https://dl.dropboxusercontent.com/s/ngtwk3dw7pvowqm/BgwLR7qBQan57V_1533907890.rar
+- SweetWinter by **Cukier** - https://dl.dropboxusercontent.com/s/ngtwk3dw7pvowqm/BgwLR7qBQan57V_1533907890.rar
 
 ## Editor Plugins ##
 
-- Scene OBJ Exporter (1.0 for 1.0.0) by **halmarak** - https://pastebin.com/5dN4muHP
+- Scene OBJ Exporter by **halmarak** - https://pastebin.com/5dN4muHP
 
 ## Maps ##
 
