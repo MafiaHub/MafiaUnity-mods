@@ -25,7 +25,6 @@ You can report any issues or abuse to one of our administrators or by sending an
 
 
 ## Table of Contents
-
 - [Gameplay](#gameplay)
 - [Bugfixes](#bugfixes)
 - [Utilities](#utilities)
