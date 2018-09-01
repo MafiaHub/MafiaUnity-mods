@@ -30,6 +30,7 @@ You can report any issues or abuse to one of our administrators or by sending an
 - [Bugfixes](#bugfixes)
 - [Utilities](#utilities)
 - [Graphics](#graphics)
+- [Audio](#Audio)
 - [Editor Plugins](#editor-plugins)
 - [Maps](#maps)
 - [Total Conversions](#total-conversions)
@@ -44,8 +45,10 @@ You can report any issues or abuse to one of our administrators or by sending an
 ## Graphics ##
 - SweetWinter by **Cukier** - https://www.dropbox.com/s/8nck3th6jotyjtz/SweetWinter.rar?dl=0
 
-## Editor Plugins ##
+## Audio ##
+- MafiaMusic by **ZaKlaus** - https://www.dropbox.com/s/uuswnl3bfypojzo/MafiaMusic.zip?dl=0
 
+## Editor Plugins ##
 - Scene OBJ Exporter by **halmarak** - https://pastebin.com/5dN4muHP
 
 ## Maps ##
